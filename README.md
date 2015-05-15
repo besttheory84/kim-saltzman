@@ -1,1 +1,1 @@
-# kim-saltzman
+Wordpress theme for kimsaltzman.com
